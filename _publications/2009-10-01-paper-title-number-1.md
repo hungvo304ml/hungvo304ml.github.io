@@ -8,6 +8,7 @@ venue: '2021 IEEE EMBS International Conference on Biomedical and Health Informa
 paperurl: 'https://ieeexplore.ieee.org/document/9508604'
 ---
 ![This is an image](https://github.com/hungvo304ml/hungvo304ml.github.io/blob/master/images/image-alignment-580x300.jpg)
+![Alt](https://github.com/hungvo304ml/hungvo304ml.github.io/blob/master/images/image-alignment-580x300.jpg "image")
 Accurate breast lesion risk estimation can significantly reduce unnecessary biopsies and help doctors decide optimal treatment plans. Most existing computer-aided systems rely solely on mammogram features to classify breast lesions. While this approach is convenient, it does not fully exploit useful information in clinical reports to achieve the optimal performance. Would clinical features significantly improve breast lesion classification compared to using mammograms alone? How to handle missing clinical information caused by varia- tion in medical practice? What is the best way to combine mammograms and clinical features? There is a compelling need for a systematic study to address these fundamental questions. This paper investigates several multimodal deep networks based on feature concatenation, cross-attention, and co-attention to combine mammograms and categorical clinical variables. We show that the proposed architectures significantly increase the lesion classification performance (average area under ROC curves from 0.89 to 0.94). We also evaluate the model when clinical variables are missing.
 
 [Download paper here](https://arxiv.org/pdf/2108.09591.pdf)
