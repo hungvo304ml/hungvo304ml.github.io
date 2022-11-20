@@ -3,8 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Achievements"
+    url: /achievements/
+
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "CV"
     url: /cv/
+
+    
