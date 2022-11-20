@@ -1,9 +1,9 @@
 ---
-title: "Introduction to Programming"
+title: "Data Structures and Algorithms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-fall-teaching
+permalink: /teaching/2020-spring-teaching
 venue: "University of Information Technology, Vietnam National University, Department of Computer Science"
-date: 2019-08-01
+date: 2020-01-01
 location: "Ho Chi Minh, Vietnam"
 ---
