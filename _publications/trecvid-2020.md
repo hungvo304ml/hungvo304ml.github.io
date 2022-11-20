@@ -2,7 +2,7 @@
 title: "NII_UIT AT TREC Video Retrieval Evaluation 2020 ‑ Instance Search Track"
 collection: publications
 permalink: /publication/trecvid-2020
-excerpt: Duy-Dinh Le\* <b>Hung-Quoc Vo*</b>, ..., Thua-Ngoc Nguyen, Vinh-Tiep Nguyen, Thanh-Duc Ngo, Zheng Wang, Shin'ichi Satoh<br/><a href="https://www-nlpir.nist.gov/projects/tvpubs/tv20.papers/nii_uit.pdf">[paper]</a><a href="https://github.com/hungvo304ml/Instance-Search">[code]</a><a href="https://youtu.be/jDgEU_zI9IA">[demo]</a><br/><img src='/images/publications/trecvid-2020.png'>
+excerpt: Duy-Dinh Le\* <b>Hung-Quoc Vo*</b>, ..., Vinh-Tiep Nguyen, Thanh-Duc Ngo, Zheng Wang, Shin'ichi Satoh<br/><a href="https://www-nlpir.nist.gov/projects/tvpubs/tv20.papers/nii_uit.pdf">[paper]</a><a href="https://github.com/hungvo304ml/Instance-Search">[code]</a><a href="https://youtu.be/jDgEU_zI9IA">[demo]</a><br/><img src='/images/publications/trecvid-2020.png'>
 date: 2020-10-01
 venue: 'TRECVID 2020, Gaithersburg, MD, USA (Virtual Workshop) (in conjunction with ICCV ViRaL workshop)'
 ---
