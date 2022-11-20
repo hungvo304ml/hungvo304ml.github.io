@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+minimal_mistakes_skin    : "aqua"
 locale                   : "en-US"
-title                    : "Hung Q. Vo - Ph.D. Student"
-title_separator          : "-"
+title                    : "Hung Q. Vo / Profile"
+title_separator          : "/"
 name                     : &name "Hung Q. Vo"
 description              : &description "personal description"
 url                      : https://hungvo304ml.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
