@@ -1,0 +1,6 @@
+---
+title: "Rank 3rd over 12 participating teams at TREC Video Retrieval Evaluation 2019 ‑ Instance Search Track"
+collection: achievements 
+permalink: /achievement/trecvid-2019
+excerpt: I am a core member of NII-UIT-Hitachi team at TRECVID 2020 for large-scale video retrieval. Here, I handled all the implementations and carried out all experimentations for Instance Search track. The topic of this year was "Searching for specific person doing specific action" in ~470k videos.
+---
