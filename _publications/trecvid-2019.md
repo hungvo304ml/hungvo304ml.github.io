@@ -2,7 +2,7 @@
 title: "NII Hitachi UIT at TREC Video Retrieval Evaluation 2019 ‑ Instance Search Track."
 collection: publications
 permalink: /publication/trecvid-2019
-excerpt: Duy-Dinh Le\* <b>Hung-Quoc Vo*</b>, ..., Vinh-Tiep Nguyen, Tien-Van Do, Thanh-Duc Ngo, Zheng Wang, Shin'ichi Satoh<br/><a href="https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/nii_hitachi_uit.pdf">[paper]</a><a href="https://github.com/hungvo304ml/Instance-Search">[code]</a><a href="https://youtu.be/uWH5L22imkU">[demo]</a><br/><img src='/images/publications/trecvid-2019.png'>
+excerpt: Duy-Dinh Le\* <b>Hung-Quoc Vo*</b>, ..., Vinh-Tiep Nguyen, Tien-Van Do, Thanh-Duc Ngo, Zheng Wang, Shin'ichi Satoh<br/><a href="https://www-nlpir.nist.gov/projects/tvpubs/tv19.papers/nii_hitachi_uit.pdf">[paper]</a><a href="https://github.com/hungvo304ml/Instance-Search">[code]</a><a href="https://youtu.be/uWH5L22imkU">[demo]</a><br/><img src='/images/publications/trecvid-2019.gif'>
 date: 2019-10-01
 venue: 'TRECVID 2019, Gaithersburg, MD, USA'
 ---
