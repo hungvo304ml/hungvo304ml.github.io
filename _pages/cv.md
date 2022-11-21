@@ -14,6 +14,7 @@ Education
 * Ph.D in Electrical and Computer Engineering, University of Houston, 2021-2015 (expected)
   * Machine Learning for Multi-modal Medical Data: Multi-modal Learning, Unsupervised Learning, and Data with limited labels learning.
   * Advisor: [Prof. Hien V. Nguyen](https://www.hvnguyen.com/)
+  * Co-Advisor: [Dr. Stephen T.C. Wong](https://scholar.google.com/citations?user=C2gJxXYAAAAJ&hl=en)
 * B.S. in Computer Science, Vietnam National University-University of Information Technology, 2015-2019
   * Honor Degree in Computer Science
   * Thesis: Multi‑modal Person Retrieval with limited and noisy query data in Large‑scale video database
