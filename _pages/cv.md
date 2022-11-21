@@ -26,7 +26,6 @@ Work experience
 	* Cross‑Attention learning to combine mammogram images and electronic health records (EHRs) for Breast Cancer prediction.
 	* Fusion Learning of Chest CT Scan and structured clinical data for Incidental Lung Nodule Cancer Prediction.
 	* Local information capturing with Self‑supervised learning using Multi‑scales masked image reconstruction.
-	* Pixel‑level reconstruction and feature‑level regression for self‑supervised mutual information maximization.
 * Systems Medicine and Bioengineering Laboratory (SMAB Lab), Houston Methodist Research Institute, Houston Methodist Hospital
   * Visiting Graduate Research Fellow, Jan. 2022 ‑ Present
 	* Working with a multi‑disciplinary team from the Houston Methodist Hospital.
