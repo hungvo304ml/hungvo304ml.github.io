@@ -45,7 +45,7 @@ Skills
 * Libraries 
   * Pytorch, Keras, scikit-learn, Tensorflow
   * OpenCV, Numpy, Pandas
-  * Stanza NLP, Spacy, Flair NLP, Hugging Face
+  * Stanza NLP, Spacy, Flair NLP
 * Languages:
   * English: Professional Proficiency 
 
