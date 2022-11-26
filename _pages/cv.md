@@ -30,6 +30,7 @@ Work experience
   * Visiting Graduate Research Fellow, Jan. 2022 ‑ Present
 	* Working with a multi‑disciplinary team from the Houston Methodist Hospital.
 	* Develop AI algorithms to apply on real patients multi‑modal data from Houston Methodist Cancer Center including medical images, structured EHR, and clinical reports for Breast and Lung Cancer Risk Assessment.
+	* Human-AI collaboration for extracting useful clinical concepts from a large numbers of radiology reports. Specifically, we explore clinical concepts from ~400k radiology reports using expert-augmented deep learning.
 * Multimedia Communications Laboratory (MMLab‑UIT), VNUHCM‑University of Information Technology
   * Research Assistant, Research Student, Oct. 2017 ‑ Oct. 2020
 	* Person Retrieval re‑ranking through representation learning with weakly‑supervised hard negative mining.
