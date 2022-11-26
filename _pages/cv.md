@@ -30,7 +30,7 @@ Work experience
   * Visiting Graduate Research Fellow, Jan. 2022 ‑ Present
 	* Working with a multi‑disciplinary team from the Houston Methodist Hospital.
 	* Develop AI algorithms to apply on real patients multi‑modal data from Houston Methodist Cancer Center including medical images, structured EHR, and clinical reports for Breast and Lung Cancer Risk Assessment.
-* MMLab‑UIT, VNUHCM‑University of Information Technology
+* Multimedia Communications Laboratory (MMLab‑UIT), VNUHCM‑University of Information Technology
   * Research Assistant, Research Student, Oct. 2017 ‑ Oct. 2020
 	* Person Retrieval re‑ranking through representation learning with weakly‑supervised hard negative mining.
 	* Person Retrieval, Place Retrieval, and Action Retrieval in large‑scale video database (~470k videos) using image, video, and audio embeddings and set‑to‑set matching.
