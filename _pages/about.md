@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there! 
-
-Welcome to my personal website. My name is Hung Q. Vo. In Vietnamese, it is Võ Quốc Hưng.
 
 I am currently an ECE research assistant at HoUston Learning Algorithms (HULA) Laboratory, University of Houston and a visiting graduate research fellow at Systems Medicine and Bioengineering (SMAB) Laboratory, Houston Methodist Hospital Research Institute. My co-advisors are [Prof. Hien V. Nguyen](https://www.hvnguyen.com/) and [Dr. Stephen T.C. Wong](https://scholar.google.com/citations?user=C2gJxXYAAAAJ&hl=en). Before that, I was a Research Assistant of MMLab-UIT at Vietnam National University - University of Information Technology where I was advised by [Prof. Duy-Dinh Le](https://researchmap.jp/ledduy). Also from here, I graduated with an Honor B.Sc. degree in Computer Science. 
 
